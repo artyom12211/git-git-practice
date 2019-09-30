@@ -1,0 +1,16 @@
+header {text-align: center;}
+.header__title-wrapper {
+    margin-top: 100px;
+    padding: 0 10px;
+    border-radius: 10px;
+    border: 1px solid greenyellow;
+    display: inline-block;
+    text-align: center;
+}
+.header__title  {
+    display: inline-block;
+    text-align: center;
+    border-bottom: 1px dotted red;
+    color: yellowgreen;
+    letter-spacing: 1px;
+}
