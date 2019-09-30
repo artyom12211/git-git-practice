@@ -14,3 +14,19 @@ header {text-align: center;}
     color: yellowgreen;
     letter-spacing: 1px;
 }
+/*       MAIN SECTION      */
+main {
+    background-color: pink;
+    height: 500px;
+    padding: 100px;
+    margin-top: 20px;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+}
+.content { padding: 0 10%; }
+.content .content__text {
+    color: aqua;
+    font-weight: bold;
+    font-size: 25px;
+    text-align: justify;
+}
