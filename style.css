@@ -30,3 +30,11 @@ main {
     font-size: 25px;
     text-align: justify;
 }
+
+.footer__link {
+    text-decoration: none;
+    color: yellowgreen;
+    display: block;
+    padding: 15px 5px;
+    background-color: aqua;
+}
